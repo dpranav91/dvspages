@@ -1,0 +1,2 @@
+# dvspages
+Static html pages
